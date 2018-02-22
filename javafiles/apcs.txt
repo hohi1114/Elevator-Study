@@ -1,0 +1,16 @@
+15
+Cho HoYeon 18 179.0f 100.0f 99.0f
+Eom TaeJun 18 176.0f 98.0f 97.0f
+Kim JaeHong 18 165.0f 96.0f 95.0f
+Lee SeeHyun 18 177.0f 94.0f 93.0f
+Shin JoongHuck 18 175.0f 92.0f 91.0f 
+Park SangYoon 18 164.0f 90.0f 89.0f
+Sin JaeRyoung 18 177.0f 88.0f 87.0f
+Seo JaeDuck 18 173.0f 86.0f 85.0f
+Kwon HaeChan 18 172.0f 84.0f 83.0f
+Hong JiMin 18 161.0f 82.0f 81.0f
+Lee SeungHyun 18 162.0f 80.0f 79.0f
+Kim TaeJun 17 188.0f 78.0f 77.0f
+An JooUn 17 183.0f 76.0f 75.0f
+Jun JiHyun 17 160.0f 74.0f 73.0f
+Lee SeungHo 17 172.0f 72.0f 71.0f
